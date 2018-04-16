@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/CharlyWelch/node-beginner-exercises#readme",
   "dependencies": {
-    "eslint": "^4.19.1"
+    "eslint": "^4.19.1",
+    "formidable": "^1.2.1"
   }
 }
